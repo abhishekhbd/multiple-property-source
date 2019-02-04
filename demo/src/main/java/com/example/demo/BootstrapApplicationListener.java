@@ -8,6 +8,7 @@ import org.springframework.core.env.ConfigurableEnvironment;
 
 /**
  * https://stackoverflow.com/questions/39161644/plug-into-the-hierarchy-of-spring-boot-property-sources
+   https://github.com/griffio/redis-property-source
  */
 
 public class BootstrapApplicationListener implements
